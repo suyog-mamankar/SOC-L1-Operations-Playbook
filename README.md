@@ -23,6 +23,9 @@ SOC-L1-Operations-Playbook/
 ├── README.md
 ├── auto_sync.py
 └── notes/
+    ├── Day-01-SOC-Fundamentals.md
+    ├── Day-02-Workflows-Tooling.md
+    └── Day-03-Kill-Chain-Defense-SIEM.md
 ```
 
 <!-- STRUCTURE_END -->
@@ -34,6 +37,9 @@ SOC-L1-Operations-Playbook/
 
 | Day | File | Topics Covered |
 | :--- | :--- | :--- |
+| **Day 1** | [`notes/Day-01-SOC-Fundamentals.md`](notes/Day-01-SOC-Fundamentals.md) | SOC Fundamentals - 📋 Course Overview & Logistics, 🌐 Cybersecurity Career Domains & Market Analysis, 🗓️ The Exhaustive 30-Day SOC Analyst L1 Roadmap, 🧰 SOC Tooling Ecosystem & Technology Stack |
+| **Day 2** | [`notes/Day-02-Workflows-Tooling.md`](notes/Day-02-Workflows-Tooling.md) | Workflows Tooling - 🎬 Introduction & Session Objectives, 🏢 SOC Organizational Hierarchy & Tier Breakdown, 🔄 SOC Daily Operational Workflows & Lifecycle, 🧰 SOC Tooling Ecosystem & Tech Stack (Day 2) |
+| **Day 3** | [`notes/Day-03-Kill-Chain-Defense-SIEM.md`](notes/Day-03-Kill-Chain-Defense-SIEM.md) | Kill Chain Defense SIEM - 📑 Table of Contents, Session Logistics & Certifications, Core Definitions: Threat, Vulnerability, Risk, The CIA Triad |
 
 <!-- INDEX_END -->
 
@@ -62,8 +68,11 @@ SOC-L1-Operations-Playbook/
 ## 📌 Roadmap
 <!-- ROADMAP_START -->
 
-- [ ] Day 1 — (Upcoming Masterclass)
-- [ ] Day 2+ — (To be added)
+- [x] Day 1 — SOC Fundamentals
+- [x] Day 2 — Workflows Tooling
+- [x] Day 3 — Kill Chain Defense SIEM
+- [ ] Day 4 — (Upcoming Masterclass)
+- [ ] Day 5+ — (To be added)
 
 <!-- ROADMAP_END -->
 
